@@ -1,3 +1,6 @@
 example.*
 rootca.*
 *.conf
+python/lib
+python/lib64
+python/bin
